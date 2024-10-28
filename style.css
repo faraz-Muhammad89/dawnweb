@@ -1,0 +1,21 @@
+.heading{
+  text-align: center;
+}
+.think-text h2 {
+font-weight:300 !important;
+}
+hr{
+    height: 3px;
+    background-color: black;
+}
+
+.nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display:flex;
+    gap: 20px;
+    justify-content: center;
+
+    
+}
